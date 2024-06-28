@@ -24,7 +24,7 @@ sub = num1 - num2 = 10
 ## Образование
 __Университет__: ТОГУ
 __Курсы__:
-[Лекции CS50](https://7890RKJzL968QWEykA)
+[Лекции CS50](https://www.youtube.com/channel/UCcabW7890RKJzL968QWEykA)
 [Stepik](https://stepik.org/course/180360/promo?search=4559244657)
 
 ## Языки
